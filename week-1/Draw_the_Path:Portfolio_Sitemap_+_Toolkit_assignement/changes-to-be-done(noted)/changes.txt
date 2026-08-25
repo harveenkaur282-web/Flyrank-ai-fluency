@@ -1,0 +1,12 @@
+Change I'll make: Revise the project case-study structure so that 
+"productionization" is explicitly represented rather than implied 
+by "Implementation" or "GitHub + Demo." I’ll incorporate the key 
+production evidence — such as deployment/hosting, CI/CD, testing, 
+monitoring/reliability, and relevant infrastructure or scaling decisions — 
+into a concise Productionization section instead of adding many separate 
+pages or navigation items. This keeps the sitemap small while making the 
+"productionize" part of my proof statement visible and credible.
+
+Secondary change: Rework the project tags so AI/ML remains the clear center of 
+the portfolio, while Cloud, DevOps, software engineering, and data are presented 
+as supporting capabilities rather than five equal professional identities.

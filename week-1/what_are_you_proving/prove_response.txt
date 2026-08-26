@@ -1,0 +1,20 @@
+Proof Statement
+
+I build and engineer applied AI systems, particularly RAG and
+ LLM powered applications, by working through the engineering problems 
+ behind them such as repository knowledge retrieval, retrieval strategy 
+ evaluation, and building the surrounding software with practices such as 
+ containerization, automated testing, CI/CD, and observability. I want to
+  demonstrate this to a hiring manager at a small to mid sized startup 
+  building AI powered products who is evaluating candidates for an AI 
+  engineering internship. I want them to review my project work, 
+  starting with RepoMindAI as my primary AI engineering proof, while 
+  using my cloud, Kubernetes, and other software engineering projects 
+  as supporting evidence of the engineering foundation behind my AI work.
+
+Why This Portfolio Needs to Exist
+
+My CV can summarize my projects, internships, technologies, and results, 
+but it cannot show the architectural decisions, experiments, trade offs, 
+and evidence behind my work, such as why one retrieval or chunking strategy 
+performed better than another, which is what this portfolio makes inspectable.
